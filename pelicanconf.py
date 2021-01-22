@@ -23,8 +23,12 @@ LINKS = ()
 
 # Social widget
 SOCIAL = ()
+SOCIAL_WIDGET_NAME = 'feed'
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = False
+
+USE_FOLDER_AS_CATEGORY = True
+
+THEME = 'themes/notmyidea'
