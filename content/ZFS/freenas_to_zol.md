@@ -1,4 +1,4 @@
-Title: Moving From FreeNAS to ZFS On Linux (Debian)
+Title: Moving From FreeNAS to ZFS On Linux (Part 1)
 Date: 2021-01-22 20:15
 Category: ZFS
 Summary: Setting up ZoL with an existing pool and removing GELI encryption.
