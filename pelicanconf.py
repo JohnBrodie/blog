@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'John Brodie'
+AUTHOR = ''
 SITENAME = "Brodie's Blog"
 SITEURL = ''
 
